@@ -19,8 +19,6 @@ end
 
 def using_shift(array)
   array = ["Lagos"]
-  shitty_city = array.shift 
-  p shitty_city
-  array.shift 
+  array.shift
 end
   
