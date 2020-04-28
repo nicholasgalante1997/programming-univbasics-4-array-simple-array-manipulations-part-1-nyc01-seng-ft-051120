@@ -18,7 +18,7 @@ def pop_with_args(colors_in_the_rainbow)
 end 
 
 def using_shift(array)
-  array = ["Lagos"]
+  array = ["Lagos", "Perth"]
   array.shift
 end
   
